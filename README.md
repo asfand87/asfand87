@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asfand87
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript,nodejs, express, mongodb,react.
+- 🌱 I use javascript,nodejs, express, mongodb and react.
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me asfand1987@gmail.com
 
